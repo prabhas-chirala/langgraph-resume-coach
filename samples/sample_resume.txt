@@ -1,0 +1,15 @@
+PRABHAS CHIRALA — AI / ML Engineer (sample)
+
+BITS Pilani M.Tech AI & ML | B.Tech ECE, Amrita
+
+Skills: Python, FastAPI, LangChain, LangGraph, RAG, OpenAI/Groq LLMs, LightGBM,
+Scikit-learn, Streamlit, Docker, PostgreSQL, Prompt Engineering
+
+Experience:
+- Sieva Networks: Built AI sentiment analysis features, FastAPI services, CRM AI UI.
+- Built cascading LLM blood-report analyzer (GPT-4o) with JSON schema extraction.
+- Built LightGBM + Optuna price prediction service with FastAPI inference API.
+
+Projects:
+- Health Insights Agent: PDF blood report parsing + structured biomarker extraction.
+- AddressForge: AI-assisted address normalization pipelines.

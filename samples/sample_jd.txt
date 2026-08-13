@@ -1,0 +1,15 @@
+Job Title: Applied AI Engineer (LangChain / LangGraph)
+
+We are hiring an Applied AI Engineer to build production LLM agents and RAG systems.
+
+Requirements:
+- Hands-on experience with LangChain and LangGraph multi-agent workflows
+- Build RAG pipelines (chunking, embeddings, vector stores, grounded answers)
+- Python, FastAPI, prompt engineering, evaluation of LLM outputs
+- Experience deploying AI features in real products (APIs, UI, monitoring)
+- Nice to have: LightGBM/classical ML, Docker, PostgreSQL
+
+Responsibilities:
+- Design agent graphs for internal copilots
+- Improve retrieval quality and reduce hallucinations
+- Partner with product/engineering to ship AI features
